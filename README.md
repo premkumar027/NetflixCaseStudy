@@ -1,6 +1,8 @@
 # NetflixCaseStudy
 A data analysis project revealing insights about Netflix content distribution, user preferences, and more 🍿📊
+
 Key Findings
+
 Here are some of the highlights from our analysis:
 
 Netflix offers a diverse range of content, with a strong emphasis on movies.
