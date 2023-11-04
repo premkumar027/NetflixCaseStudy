@@ -13,9 +13,11 @@ Content durations vary, covering both short movies and multi-season TV shows.
 The platform hosts content from various genres, with documentaries and dramas being prominent.
 
 Get Started
+
 Clone or download the repository.
 Explore the Jupyter notebooks to dive into the analysis and visualizations.
 Have fun exploring the world of Netflix content!
+
 Questions or Collaboration
 If you have questions, feedback, or would like to collaborate, feel free to contact me or open an issue.
 
